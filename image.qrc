@@ -1,0 +1,119 @@
+<RCC>
+    <qresource prefix="/icon/menu">
+        <file>image/icon/Add.png</file>
+        <file>image/icon/Add Green Button.png</file>
+        <file>image/icon/Clear Green Button.png</file>
+        <file>image/icon/Gear.png</file>
+        <file>image/icon/Gear Alt.png</file>
+        <file>image/icon/Get Document.png</file>
+        <file>image/icon/Get Mail.png</file>
+        <file>image/icon/Grey Ball.png</file>
+        <file>image/icon/Help Blue Button.png</file>
+        <file>image/icon/Help Purple Button.png</file>
+        <file>image/icon/History.png</file>
+        <file>image/icon/Minus Green Button.png</file>
+        <file>image/icon/Minus Red Button.png</file>
+        <file>image/icon/Pause.png</file>
+        <file>image/icon/Pause All.png</file>
+        <file>image/icon/Pause Blue Button.png</file>
+        <file>image/icon/Pause Green Button.png</file>
+        <file>image/icon/Picture CD.png</file>
+        <file>image/icon/Picture Document.png</file>
+        <file>image/icon/Play.png</file>
+        <file>image/icon/Play All.png</file>
+        <file>image/icon/Play Blue Button.png</file>
+        <file>image/icon/Play Green Button.png</file>
+        <file>image/icon/Plugin Green Button.png</file>
+        <file>image/icon/Remove.png</file>
+        <file>image/icon/Run.png</file>
+        <file>image/icon/Send Document.png</file>
+        <file>image/icon/Star.png</file>
+        <file>image/icon/Stop.png</file>
+        <file>image/icon/Stop All.png</file>
+        <file>image/icon/Stop Green Button.png</file>
+        <file>image/icon/Stop Red Button.png</file>
+        <file>image/icon/Terminal.png</file>
+        <file>image/icon/Transfer.png</file>
+        <file>image/icon/Transfer Document.png</file>
+        <file>image/icon/User.png</file>
+        <file>image/icon/Users.png</file>
+        <file>image/icon/Web Browser.png</file>
+        <file>image/icon/Write Document.png</file>
+        <file>image/icon/Yellow Ball.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/icon/big/mimearchive.png</file>
+        <file>image/icon/big/mimegeneral.png</file>
+        <file>image/icon/big/mimemusic.png</file>
+        <file>image/icon/big/mimeother.png</file>
+        <file>image/icon/big/mimevideo.png</file>
+        <file>image/icon/big/utamaalldownloads.png</file>
+        <file>image/icon/big/utamacompressed.png</file>
+        <file>image/icon/big/utamadocument.png</file>
+        <file>image/icon/big/utamafinished.png</file>
+        <file>image/icon/big/utamamusic.png</file>
+        <file>image/icon/big/utamaother.png</file>
+        <file>image/icon/big/utamavideo.png</file>
+        <file>image/icon/big/aktion.png</file>
+        <file>image/icon/big/batch.png</file>
+        <file>image/icon/big/browser.png</file>
+        <file>image/icon/big/category.png</file>
+        <file>image/icon/big/categoryfiles.png</file>
+        <file>image/icon/big/categoryfinish.png</file>
+        <file>image/icon/big/cfCategory.png</file>
+        <file>image/icon/big/cfConnection.png</file>
+        <file>image/icon/big/cfGeneral.png</file>
+        <file>image/icon/big/cfUserLogin.png</file>
+        <file>image/icon/big/cfView.png</file>
+        <file>image/icon/big/close.png</file>
+        <file>image/icon/big/config.png</file>
+        <file>image/icon/big/credits.png</file>
+        <file>image/icon/big/download.png</file>
+        <file>image/icon/big/download_manager.png</file>
+        <file>image/icon/big/folder_home.png</file>
+        <file>image/icon/big/folder_outbox.png</file>
+        <file>image/icon/big/grabber.png</file>
+        <file>image/icon/big/help.png</file>
+        <file>image/icon/big/highlight.png</file>
+        <file>image/icon/big/Ice.png</file>
+        <file>image/icon/big/import.png</file>
+        <file>image/icon/big/important.png</file>
+        <file>image/icon/big/Interdit.png</file>
+        <file>image/icon/big/Internet Options.png</file>
+        <file>image/icon/big/kaboodle.png</file>
+        <file>image/icon/big/kaddressbook.png</file>
+        <file>image/icon/big/kalarm.png</file>
+        <file>image/icon/big/karm.png</file>
+        <file>image/icon/big/kdmconfig.png</file>
+        <file>image/icon/big/ktimer.png</file>
+        <file>image/icon/big/kworldclock.png</file>
+        <file>image/icon/big/List manager.png</file>
+        <file>image/icon/big/logout.png</file>
+        <file>image/icon/big/lsongs.png</file>
+        <file>image/icon/big/manual.png</file>
+        <file>image/icon/big/Moins.png</file>
+        <file>image/icon/big/network.png</file>
+        <file>image/icon/big/preference.png</file>
+        <file>image/icon/big/quit.png</file>
+        <file>image/icon/big/Recharger.png</file>
+        <file>image/icon/big/reminders.png</file>
+        <file>image/icon/big/remove.png</file>
+        <file>image/icon/big/removeall.png</file>
+        <file>image/icon/big/restart.png</file>
+        <file>image/icon/big/resume-01.png</file>
+        <file>image/icon/big/resume-02.png</file>
+        <file>image/icon/big/resume.png</file>
+        <file>image/icon/big/scheduler.png</file>
+        <file>image/icon/big/scriptman.png</file>
+        <file>image/icon/big/search.png</file>
+        <file>image/icon/big/Service Manager.png</file>
+        <file>image/icon/big/speed.png</file>
+        <file>image/icon/big/start.png</file>
+        <file>image/icon/big/stop.png</file>
+        <file>image/icon/big/stopall.png</file>
+        <file>image/icon/big/stopque.png</file>
+        <file>image/icon/big/utamaprograms.png</file>
+        <file>image/icon/big/utamaunfinished.png</file>
+        <file>image/icon/big/web.png</file>
+    </qresource>
+</RCC>
